@@ -52,3 +52,26 @@ We express our gratitude to Fanmin Luo and Yihao Sun for their help in our code.
 - [ESCP](https://github.com/FanmingL/ESCP)
 - [OfflineRL-Kit](https://github.com/yihaosun1124/OfflineRL-Kit)
 
+
+## Citation
+
+If you find our paper or code useful, please consider citing via
+
+```latex
+@inproceedings{dora,
+  author       = {Xinyu Zhang and
+                  Wenjie Qiu and
+                  Yi{-}Chen Li and
+                  Lei Yuan and
+                  Chengxing Jia and
+                  Zongzhang Zhang and
+                  Yang Yu},
+  title        = {Debiased Offline Representation Learning for Fast Online Adaptation
+                  in Non-stationary Dynamics},
+  booktitle    = {Forty-first International Conference on Machine Learning, {ICML} 2024,
+                  Vienna, Austria, July 21-27, 2024},
+  publisher    = {OpenReview.net},
+  year         = {2024},
+  url          = {https://openreview.net/forum?id=BrZPj9rEpN},
+}
+```
